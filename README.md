@@ -31,7 +31,7 @@ pip install pynput
 
 Clone the repository:
 
-git clone https://github.com/your-username/keylogger-simulator.git
+git clone https://github.com/kravuhas/keylogger_simulator-python.git
 
 Navigate to the folder:
 
