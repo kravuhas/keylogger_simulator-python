@@ -9,7 +9,7 @@ def on_press(key):
         print(f"Key pressed: {key.char}")
     except AttributeError:
         # Log special keys (e.g., 'space', 'enter', 'shift')
-print(f"Special key pressed: {key}")
+        print(f"Special key pressed: {key}")
 
 def on_release(key):
     if key == pynput_keyboard.Key.esc:
